@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_50833a46b1ffaddc0d8abb3626a56c447240ad7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_fad3727c7c428320f3943c68fa9dff2998ac55df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_285693506f3e59ca061113ffb09cf1d89de38267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_48602d9fab3de4cac6e1560cd75cb96f511d00b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_583faf636502c0d45d8c5d5f96a3de819f00a949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_26b0c08e38684dd4c0bd9e96729ff43b6930539b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_d639125d1dc3994f3a5431036b7777d766da55f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_cded4573c5cfc7710a02cf67981560aa44e68ed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_13620f5a70ea0f29d6575d2beca49698452b29c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/zm/Documents/Demo/MarqueeView-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_806ad7a896ebd1f879295d3ebcfc71125cee6765.jar" />
+    </item>
+
+</items>
